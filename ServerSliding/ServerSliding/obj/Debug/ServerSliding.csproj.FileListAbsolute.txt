@@ -1,0 +1,14 @@
+C:\Users\2568455\source\repos\ServerSliding\ServerSliding\bin\Debug\ServerSliding.exe.config
+C:\Users\2568455\source\repos\ServerSliding\ServerSliding\bin\Debug\ServerSliding.exe
+C:\Users\2568455\source\repos\ServerSliding\ServerSliding\bin\Debug\ServerSliding.pdb
+C:\Users\2568455\source\repos\ServerSliding\ServerSliding\obj\Debug\ServerSliding.csproj.AssemblyReference.cache
+C:\Users\2568455\source\repos\ServerSliding\ServerSliding\obj\Debug\ServerSliding.csproj.CoreCompileInputs.cache
+C:\Users\2568455\source\repos\ServerSliding\ServerSliding\obj\Debug\ServerSliding.exe
+C:\Users\2568455\source\repos\ServerSliding\ServerSliding\obj\Debug\ServerSliding.pdb
+C:\Users\2568455\Desktop\ArchiveUDPSlidingWindow\ServerSliding\ServerSliding\bin\Debug\ServerSliding.exe.config
+C:\Users\2568455\Desktop\ArchiveUDPSlidingWindow\ServerSliding\ServerSliding\bin\Debug\ServerSliding.exe
+C:\Users\2568455\Desktop\ArchiveUDPSlidingWindow\ServerSliding\ServerSliding\bin\Debug\ServerSliding.pdb
+C:\Users\2568455\Desktop\ArchiveUDPSlidingWindow\ServerSliding\ServerSliding\obj\Debug\ServerSliding.csproj.AssemblyReference.cache
+C:\Users\2568455\Desktop\ArchiveUDPSlidingWindow\ServerSliding\ServerSliding\obj\Debug\ServerSliding.csproj.CoreCompileInputs.cache
+C:\Users\2568455\Desktop\ArchiveUDPSlidingWindow\ServerSliding\ServerSliding\obj\Debug\ServerSliding.exe
+C:\Users\2568455\Desktop\ArchiveUDPSlidingWindow\ServerSliding\ServerSliding\obj\Debug\ServerSliding.pdb

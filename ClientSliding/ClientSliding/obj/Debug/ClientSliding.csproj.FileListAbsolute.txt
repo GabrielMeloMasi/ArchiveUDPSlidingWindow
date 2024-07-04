@@ -1,0 +1,14 @@
+C:\Users\2568455\source\repos\ClientSliding\ClientSliding\bin\Debug\ClientSliding.exe.config
+C:\Users\2568455\source\repos\ClientSliding\ClientSliding\bin\Debug\ClientSliding.exe
+C:\Users\2568455\source\repos\ClientSliding\ClientSliding\bin\Debug\ClientSliding.pdb
+C:\Users\2568455\source\repos\ClientSliding\ClientSliding\obj\Debug\ClientSliding.csproj.AssemblyReference.cache
+C:\Users\2568455\source\repos\ClientSliding\ClientSliding\obj\Debug\ClientSliding.csproj.CoreCompileInputs.cache
+C:\Users\2568455\source\repos\ClientSliding\ClientSliding\obj\Debug\ClientSliding.exe
+C:\Users\2568455\source\repos\ClientSliding\ClientSliding\obj\Debug\ClientSliding.pdb
+C:\Users\2568455\Desktop\ArchiveUDPSlidingWindow\ClientSliding\ClientSliding\bin\Debug\ClientSliding.exe.config
+C:\Users\2568455\Desktop\ArchiveUDPSlidingWindow\ClientSliding\ClientSliding\bin\Debug\ClientSliding.exe
+C:\Users\2568455\Desktop\ArchiveUDPSlidingWindow\ClientSliding\ClientSliding\bin\Debug\ClientSliding.pdb
+C:\Users\2568455\Desktop\ArchiveUDPSlidingWindow\ClientSliding\ClientSliding\obj\Debug\ClientSliding.csproj.AssemblyReference.cache
+C:\Users\2568455\Desktop\ArchiveUDPSlidingWindow\ClientSliding\ClientSliding\obj\Debug\ClientSliding.csproj.CoreCompileInputs.cache
+C:\Users\2568455\Desktop\ArchiveUDPSlidingWindow\ClientSliding\ClientSliding\obj\Debug\ClientSliding.exe
+C:\Users\2568455\Desktop\ArchiveUDPSlidingWindow\ClientSliding\ClientSliding\obj\Debug\ClientSliding.pdb

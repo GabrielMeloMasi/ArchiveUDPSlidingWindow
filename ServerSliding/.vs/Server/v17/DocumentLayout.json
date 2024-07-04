@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2568455\\Desktop\\ArchiveUDPSlidingWindow\\ServerSliding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C60E5E9-8C2A-4A81-B336-989080961BE0}|ServerSliding\\ServerSliding.csproj|c:\\users\\2568455\\desktop\\archiveudpslidingwindow\\serversliding\\serversliding\\filesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C60E5E9-8C2A-4A81-B336-989080961BE0}|ServerSliding\\ServerSliding.csproj|solutionrelative:serversliding\\filesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C60E5E9-8C2A-4A81-B336-989080961BE0}|ServerSliding\\ServerSliding.csproj|C:\\Users\\2568455\\Desktop\\ArchiveUDPSlidingWindow\\ServerSliding\\serversliding\\filereceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C60E5E9-8C2A-4A81-B336-989080961BE0}|ServerSliding\\ServerSliding.csproj|solutionrelative:serversliding\\filereceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C60E5E9-8C2A-4A81-B336-989080961BE0}|ServerSliding\\ServerSliding.csproj|C:\\Users\\2568455\\Desktop\\ArchiveUDPSlidingWindow\\ServerSliding\\serversliding\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C60E5E9-8C2A-4A81-B336-989080961BE0}|ServerSliding\\ServerSliding.csproj|solutionrelative:serversliding\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileSender.cs",
+              "DocumentMoniker": "C:\\Users\\2568455\\Desktop\\ArchiveUDPSlidingWindow\\ServerSliding\\ServerSliding\\FileSender.cs",
+              "RelativeDocumentMoniker": "ServerSliding\\FileSender.cs",
+              "ToolTip": "C:\\Users\\2568455\\Desktop\\ArchiveUDPSlidingWindow\\ServerSliding\\ServerSliding\\FileSender.cs",
+              "RelativeToolTip": "ServerSliding\\FileSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:21:25.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileReceiver.cs",
+              "DocumentMoniker": "C:\\Users\\2568455\\Desktop\\ArchiveUDPSlidingWindow\\ServerSliding\\ServerSliding\\FileReceiver.cs",
+              "RelativeDocumentMoniker": "ServerSliding\\FileReceiver.cs",
+              "ToolTip": "C:\\Users\\2568455\\Desktop\\ArchiveUDPSlidingWindow\\ServerSliding\\ServerSliding\\FileReceiver.cs",
+              "RelativeToolTip": "ServerSliding\\FileReceiver.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAmwBkAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:20:41.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\2568455\\Desktop\\ArchiveUDPSlidingWindow\\ServerSliding\\ServerSliding\\Server.cs",
+              "RelativeDocumentMoniker": "ServerSliding\\Server.cs",
+              "ToolTip": "C:\\Users\\2568455\\Desktop\\ArchiveUDPSlidingWindow\\ServerSliding\\ServerSliding\\Server.cs",
+              "RelativeToolTip": "ServerSliding\\Server.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:05:50.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
